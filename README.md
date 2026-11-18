@@ -1,6 +1,6 @@
 # Hi, I'm Mahdieh Sadat Esmaeili
 
-**Junior Machine Learning Engineer / Data Scientist** based in Hesse, Germany.
+**Junior AI / Machine Learning Engineer / Data Scientist** based in Hesse, Germany.
 
 I came to machine learning from physics. I hold an M.Sc. in Plasma Engineering and have two peer-reviewed journal publications. I like ML work that can be checked: chronological splits, honest baselines, reproducible results and tests.
 
